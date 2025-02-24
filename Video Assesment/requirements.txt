@@ -1,0 +1,12 @@
+pytube>=15.0.0
+moviepy>=2.1.2
+SpeechRecognition>=3.8.1
+numpy>=1.21.0
+imageio>=2.9.0
+imageio-ffmpeg>=0.4.5
+pillow>=9.0.0
+proglog>=0.1.10
+python-dotenv>=0.21.0
+pydub
+open-whisper
+ffmpeg-python
