@@ -5,9 +5,9 @@ from pydub import AudioSegment
 
 # Configuration for PocketSphinx
 config = {
-    "hmm": "Backend/model/en-us",  # Path to acoustic model
-    "lm": "Backend/model/en-us/en-us.lm.bin",  # Language model file
-    "dict": "Backend/model/en-us/cmudict-en-us.dict",  # Pronunciation dictionary
+    "hmm": "Video Assesment/Bakcend Python/model/en-us",  # Path to acoustic model
+    "lm": "Video Assesment/Bakcend Python/model/en-us/en-us.lm.bin",  # Language model file
+    "dict": "Video Assesment/Bakcend Python/model/en-us/cmudict-en-us.dict",  # Pronunciation dictionary
 }
 
 def calculate_speech_rate(audio_file):
